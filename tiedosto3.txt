@@ -1,1 +1,0 @@
-Tiedosto testaamaan kahden eri repositorion sisältöä ja toimintaa
